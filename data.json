@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "firstName": "Nithin",
   "lastName": "Gidigi",
   "phone": "9866516195",
@@ -13,6 +13,6 @@
   "gallery": [],
   "videos": [],
   "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407",
-  "about": "10+ years experience\nWorked in 50+ projects\nExpert in field work\nAvailable for opportunities"
-  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/9866516195" }]
+  "about": "10+ years experience\nWorked in 50+ projects\nExpert in field work\nAvailable for opportunities",
+  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/919866516195" }]
 }
