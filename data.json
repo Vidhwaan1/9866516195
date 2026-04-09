@@ -1,18 +1,199 @@
 {
-  "version": 3,
+  "version": 4,
   "firstName": "Nithin",
   "lastName": "Gidigi",
   "phone": "9866516195",
-  "profession": "Student",
+  "profession": "Vidhwaan Manager",
   "location": {
     "state": "andhra-pradesh",
     "district": "sri-potti-sriramulu-nellore",
     "subdistrict": "sydapuram",
     "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407"
   },
-  "gallery": [],
-  "videos": [],
+  "profileImage": "https://app.vidhwaan.com/icons1/logo.png",
+  "gallery": [
+    "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800",
+    "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800",
+    "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800"
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=COmFeL0PMuE",
+    "https://www.youtube.com/watch?v=aQiSSyy0Ou4"
+  ],
   "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407",
-  "about": "10+ years experience\nWorked in 50+ projects\nExpert in field work\nAvailable for opportunities",
-  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/919866516195" }]
+  "about": "Manager at Vidhwaan Technology with a focus on end-to-end project lifecycle management\nStrategic lead for client acquisition and high-value contract negotiations\nCross-functional coordinator ensuring seamless delivery between technical departments\nAccountable for full-cycle product delivery from initial client consultation to final deployment\nExpert in stakeholder management and operational excellence in a technology-driven environment",
+  "social": [
+    { "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" },
+    { "name": "WhatsApp", "url": "https://wa.me/918688860859" }
+  ],
+  "slides": [
+    {
+      "img": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=800&q=80",
+      "link": ""
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "link": ""
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+      "link": ""
+    }
+  ],
+
+  "business": {
+    "slides": [
+      {
+        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1521305916504-4a1121188589?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80",
+        "link": ""
+      }
+    ],
+
+    "categories": [
+      {
+        "name": "Starters",
+        "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=800&q=80",
+        "items": [
+          {
+            "name": "Veg Spring Rolls",
+            "img": "https://images.unsplash.com/photo-1601315488950-3b5047998b38?auto=format&fit=crop&w=800&q=80",
+            "price": 120,
+            "weight": "6 pcs"
+          },
+          {
+            "name": "Paneer Tikka",
+            "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+            "price": 180,
+            "weight": "250g"
+          },
+          {
+            "name": "Chicken Wings",
+            "img": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80",
+            "price": 220,
+            "weight": "6 pcs"
+          }
+        ]
+      },
+
+      {
+        "name": "Main Course",
+        "img": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=80",
+        "items": [
+          {
+            "name": "Butter Chicken",
+            "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+            "price": 280,
+            "weight": "500g"
+          },
+          {
+            "name": "Veg Biryani",
+            "img": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=800&q=80",
+            "price": 200,
+            "weight": "Full"
+          },
+          {
+            "name": "Paneer Butter Masala",
+            "img": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+            "price": 240,
+            "weight": "500g"
+          }
+        ]
+      },
+
+      {
+        "name": "Snacks",
+        "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+        "items": [
+          {
+            "name": "French Fries",
+            "img": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=800&q=80",
+            "price": 90,
+            "weight": "Medium"
+          },
+          {
+            "name": "Cheese Burger",
+            "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+            "price": 150,
+            "weight": "1 pc"
+          },
+          {
+            "name": "Pizza Slice",
+            "img": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=800&q=80",
+            "price": 120,
+            "weight": "1 slice"
+          }
+        ]
+      },
+
+      {
+        "name": "Drinks",
+        "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=800&q=80",
+        "items": [
+          {
+            "name": "Cold Coffee",
+            "img": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+            "price": 120,
+            "weight": "300ml"
+          },
+          {
+            "name": "Fresh Juice",
+            "img": "https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=800&q=80",
+            "price": 100,
+            "weight": "250ml"
+          },
+          {
+            "name": "Soft Drink",
+            "img": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
+            "price": 60,
+            "weight": "500ml"
+          }
+        ]
+      },
+
+      {
+        "name": "Desserts",
+        "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80",
+        "items": [
+          {
+            "name": "Chocolate Cake",
+            "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+            "price": 150,
+            "weight": "1 slice"
+          },
+          {
+            "name": "Ice Cream",
+            "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80",
+            "price": 80,
+            "weight": "2 scoops"
+          },
+          {
+            "name": "Gulab Jamun",
+            "img": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+            "price": 90,
+            "weight": "2 pcs"
+          }
+        ]
+      }
+    ]
+  }
 }
